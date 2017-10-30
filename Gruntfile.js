@@ -13,7 +13,7 @@ module.exports = function(grunt) {
     config: {
       sources: 'lib',
       tests: 'test',
-      dist: '../bower-bpmn-js/dist'
+      dist: 'dist'
     },
 
     eslint: {

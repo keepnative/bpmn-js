@@ -3,6 +3,7 @@ bower_components/
 tmp/
 docs/api/
 dist/
+*.log
 .idea
 *.iml
 .DS_Store
