@@ -1,5 +1,5 @@
 {
-  "name": "@keepnative/bpmn-js",
+  "name": "bpmn-js",
   "version": "0.22.1",
   "description": "A bpmn 2.0 toolkit and web modeler",
   "scripts": {
